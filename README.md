@@ -1,0 +1,2 @@
+# AWS_PROJECTS
+*** ALL SERVICES ***
