@@ -1,6 +1,6 @@
 # AWS_PROJECTS 
 *** ALL SERVICES ***
-## 🧩 30-Day AWS Learning Roadmap
+## 🧩 Hands-on Roadmap #30 AWS SERVICES
 | Day | Topic | Key Learning Objectives | Hands-On Task |
 |-----|-------|--------------------------|----------------|
 | **Day 1** | **Introduction to AWS & EC2** | Basics of cloud computing, EC2 instances, AMIs, key pairs, and security groups | Launch and connect to an EC2 instance |
